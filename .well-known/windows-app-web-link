@@ -1,0 +1,7 @@
+{
+     "packageFamilyName": "com.test_8xa9bc7yzwj2m",
+     "paths": [
+       "/product/*",
+       "/share/*"
+     ]
+   }
